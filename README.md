@@ -1,16 +1,34 @@
-### Hi there 👋
+# Hello, I'm Jacob 🙋‍♂️
+<h1>👨‍💻Aspiring Cyberscurity Professional</h1>
+I'm Sinwoo Lee, a results-driven networking professional based in Bakersfield, CA. 
 
-<!--
-**J-SinwooLee/J-SinwooLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>How to reach me:</h2>
+<a href="https://www.linkedin.com/in/sinwoo-lee-370a8a13a">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<hr>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 **Tools:** 
+WireShark, SIEM (Sentinel)
+
+
+🏅 **Certifications:**
+- CompTIA A+ (05/2023 - 01/2027)
+- CompTIA Network+ (06/2023 - 01/2027)
+- CompTIA Security+ (01/2024 - 01/2027)
+- AZ-900
+
+💼 **Skills:**
+- Networking Fundamentals
+- Network Implementations
+- Network Troubleshooting
+- Network Security
+- Hardware Troubleshooting
+- Protocols (TCP/IP)
+- OSI Model
+- Firewall Configuration
+- Customer Service
+
+🚀 **Experience:**
+
