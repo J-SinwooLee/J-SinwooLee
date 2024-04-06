@@ -11,7 +11,8 @@
 I'm a self-motivated individual with a strong passion for cybersecurity. I've pursued various certifications and am continuously working towards expanding my knowledge and skills. You'll find a plethora of hands-on homelab experiments on my profile, reflecting my dedication to practical learning and exploration in cybersecurity. Feel free to connect with me for any assistance or resources you may need in the cybersecurity domain. I'm dedicated to ongoing learning and contributing positively to the field.
 <hr>
 
-🚀 **Experience:**
+🚀 **Project:**
+
 SIEM (Sentinel)
 
 🔧 **Tools:** 
