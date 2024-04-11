@@ -13,7 +13,7 @@ I'm a self-motivated individual with a strong passion for cybersecurity. I've pu
 
 🚀 **Project:**
 
-SIEM (Sentinel)
+Azure SIEM-Honeypot (Sentinel)
 
 🔧 **Tools:** 
 WireShark, SIEM (Sentinel)
