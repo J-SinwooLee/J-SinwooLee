@@ -29,11 +29,14 @@ WireShark, SIEM (Sentinel), Azure, REMnux
 - AZ-900
 
 💼 **Skills:**
-- Networking Fundamentals
-- Network Implementations
+- Malware Analysis
+- Network Analysis
+- OSI Model
+- Azure
+- ServiceNow
+- Customer Service
+- WireShark
+- SIEM (Sentinel)
+- Log Analysis
 - Network Troubleshooting
 - Network Security
-- Hardware Troubleshooting
-- Protocols (TCP/IP)
-- OSI Model
-- Firewall Configuration
