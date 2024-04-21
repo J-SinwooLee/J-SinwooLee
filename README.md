@@ -16,9 +16,11 @@ I'm a self-motivated individual with a strong passion for cybersecurity. I've pu
 Azure SIEM-Honeypot (Sentinel)
 <br>
 Network-Analysis-WebShell (WireShark)
+<br>
+Malware-analysis-REMnux
 
 🔧 **Tools:** 
-WireShark, SIEM (Sentinel)
+WireShark, SIEM (Sentinel), Azure, REMnux
 
 🏅 **Certifications:**
 - CompTIA A+ (05/2023 - 01/2027)
