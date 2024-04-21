@@ -17,7 +17,7 @@ Azure SIEM-Honeypot (Sentinel)
 <br>
 Network-Analysis-WebShell (WireShark)
 <br>
-Malware-analysis-REMnux
+Malware-Analysis-Shellcode (REMnux)
 
 🔧 **Tools:** 
 WireShark, SIEM (Sentinel), Azure, REMnux
