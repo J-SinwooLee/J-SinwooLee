@@ -1,4 +1,4 @@
-# Hello, I'm Jacob 🙋‍♂️
+# Hello, I'm Sinwoo a.k.a Jacob 🙋‍♂️
 <h1>👨‍💻Aspiring Cyberscurity Professional</h1>
 <h2>How to reach me:</h2>
 <a href="https://www.linkedin.com/in/sinwoo-lee-370a8a13a">
