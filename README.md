@@ -31,12 +31,12 @@ WireShark, SIEM (Sentinel), Azure, REMnux
 💼 **Skills:**
 - Malware Analysis
 - Network Analysis
+- Log Analysis
 - OSI Model
 - Azure
 - ServiceNow
-- Customer Service
 - WireShark
 - SIEM (Sentinel)
-- Log Analysis
+- Customer Service
 - Network Troubleshooting
 - Network Security
