@@ -13,9 +13,9 @@ I'm a self-motivated individual with a strong passion for cybersecurity. I've pu
 
 🚀 **Project:**
 
-Azure-SIEM-Honeypot-(Sentinel)
+[Azure-SIEM-Honeypot-(Sentinel)](https://github.com/J-SinwooLee/Azure-SIEM-Honeypot)
 <br>
-Network-Analysis-WebShell-(WireShark)
+[Network-Analysis-WebShell-(WireShark)](https://github.com/J-SinwooLee/Network-Analysis-WebShell)
 <br>
 [Malware-Analysis-Shellcode-(REMnux)](https://github.com/J-SinwooLee/Malware-Analysis-REMnux)
 
