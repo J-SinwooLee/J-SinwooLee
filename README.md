@@ -35,11 +35,10 @@ WireShark, SIEM, Azure, REMnux, PowerShell
 - Malware Analysis
 - Network Analysis
 - Log Analysis
-- OSI Model
+- IDS Analysis
 - Azure
-- ServiceNow
 - WireShark
-- SIEM (Sentinel)
-- Customer Service
+- SIEM
 - Network Troubleshooting
 - Network Security
+- NIST, NVD, CVE
