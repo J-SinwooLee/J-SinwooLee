@@ -23,7 +23,7 @@ I'm a self-motivated individual with a strong passion for cybersecurity. I've pu
 
 
 🔧 **Tools:** 
-WireShark, SIEM, Azure, REMnux, PowerShell
+Bash, WireShark, SIEM, Azure, REMnux, PowerShell
 
 🏅 **Certifications:**
 - CompTIA A+ (05/2023 - 01/2027)
